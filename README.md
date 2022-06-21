@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<h1 align="center">
+<h1 align="">
   My Personal Website
 </h1>
 
