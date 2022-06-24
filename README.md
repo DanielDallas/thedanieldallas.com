@@ -3,6 +3,6 @@
   My Personal Website
 </h1>
 
-_WEBSITE IN PROGRES...S_
+_WEBSITE IN PROGRES..._
 
 <!-- AUTO-GENERATED-CONTENT:END -->
